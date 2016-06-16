@@ -25,3 +25,19 @@
    ```
 
    ​
+
+## Commiter Profile
+
+1. ```powershell
+   git config --global user.name "Your Name"
+   ```
+
+2. ```powershell
+   git config --global user.email youremail@example.com
+   ```
+
+3. ```powershell
+   git commit --amend --author="yourname<youremail@example.com>" -m "your comment"
+   ```
+
+   ​
