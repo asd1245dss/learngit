@@ -92,3 +92,17 @@
    ```
 
    ​
+
+## Create And Merge Branch
+
+1. ```powershell
+   git checkout -b Your Branch
+   - git branch Your Branch
+   - git checkout Your Branch
+   ```
+
+2. ```powershell
+
+   ```
+
+   ​
