@@ -41,3 +41,15 @@
    ```
 
    ​
+
+## Version Reset
+
+1. ```powershell
+   git reset --hard commit_id
+   ```
+
+2. ```powershell
+   git reflog
+   ```
+
+   ​
