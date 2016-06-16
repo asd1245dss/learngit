@@ -93,7 +93,7 @@
 
    ​
 
-## Create And Merge Branch
+## Create And Merge And Delete Branch
 
 1. ```powershell
    git checkout -b Your Branch
@@ -102,7 +102,11 @@
    ```
 
 2. ```powershell
+   git merge Your Branch
+   ```
 
+3. ```powershell
+   git checkout -d Your Branch
    ```
 
    ​
