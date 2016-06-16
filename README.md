@@ -59,10 +59,18 @@
 1. ```powershell
    git checkout -- file
    ```
-
-
 2. ```powershell
    git reset HEAD file
+   ``
+   ```
+## Delete File
+
+1. ```powershell
+   git rm file
+   ```
+
+2. ```powershell
+   git commit -m "Your comment"
    ```
 
    ​
