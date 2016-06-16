@@ -108,5 +108,12 @@
 3. ```powershell
    git checkout -d Your Branch
    ```
+4. ```powershell
+   git branch -a
+   ```
+
+5. ```powershell
+   git push origin --delete Your Branch Name
+   ```
 
    ​
