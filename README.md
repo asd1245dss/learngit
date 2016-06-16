@@ -60,4 +60,9 @@
    git checkout -- file
    ```
 
+
+2. ```powershell
+   git reset HEAD file
+   ```
+
    ​
