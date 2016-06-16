@@ -53,3 +53,11 @@
    ```
 
    ​
+
+## Restore Amend
+
+1. ```powershell
+   git checkout -- file
+   ```
+
+   ​
