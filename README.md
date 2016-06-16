@@ -2,7 +2,7 @@
 
 ## Create Git Repository 
 
-1. ```powershell
+1. ```shell
    git init
    ```
 
