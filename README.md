@@ -13,3 +13,15 @@
 3. ```
    git commit -m "your comment"
    ```
+
+## Version Controll
+
+1. ```powershell
+   git status
+   ```
+
+2. ```powershell
+   git diff file
+   ```
+
+   ​
