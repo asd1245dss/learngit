@@ -73,4 +73,14 @@
    git commit -m "Your comment"
    ```
 
+## Add Remote Git Repository
+
+1. ```powershell
+   git remote add origin Your Remote Repository
+   ```
+
+2. ```powershell
+   git push -u origin master
+   ```
+
    ​
