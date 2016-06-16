@@ -84,3 +84,11 @@
    ```
 
    ​
+
+## Clone Remote Git Repository
+
+1. ```powershell
+   git clone Your Remote Repository
+   ```
+
+   ​
